@@ -1,0 +1,44 @@
+.about{
+  padding: 100px 0;
+  transition: all 0.3s ease;
+}
+
+.about .title::after{
+  content: "Who I am"
+}
+
+.about .about-content{
+  margin-bottom: 100px;
+}
+
+.about .about-content .left{
+  width: 45%;
+}
+
+.about .about-content .left img{
+  height: 400px;
+  width: 400px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+.about .about-content .right{
+  width: 55%;
+  padding-bottom: 50px;
+}
+
+.about .about-content .right .about-text,
+.about .about-content .right .about-skills{
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.about .about-content .right .about-skills span{
+  color: rgb(255, 164, 45);;
+}
+
+.about .about-content .right p{
+  text-align: justify;
+  font-size: 20px;
+}

@@ -1,0 +1,89 @@
+/* 구글 폰트 */
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang&family=Hi+Melody&family=Noto+Serif+KR:wght@500&family=Poppins:wght@400;500;600;700&family=Stylish&family=Ubuntu:wght@400;500;700&display=swap');
+
+
+/* 초기화하기 */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.home .about .skills .my-site .contact{
+  padding-top: 86px;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+.max-width{
+  max-width: 1300px;
+  padding: 0 20px;
+  margin: auto;
+}
+
+/* 섹션 공통부분 CSS */
+.section{
+  padding: 100px 0;
+}
+
+.about, .skills, .my-site, .contact, footer{ 
+  font-family: 'Poppins', sans-serif;
+}
+
+.about .title,
+.skills .title,
+.my-site .title,
+.contact .title{
+  position: relative;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 500;
+  margin: 30px 0 100px 0;
+  padding-bottom: 8px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.about .title::before,
+.skills .title::before,
+.my-site .title::before,
+.contact .title::before{
+  content: "";
+  position: absolute;
+  bottom: 0px;
+  left: 50%;
+  width: 160px;
+  height: 3px;
+  background-color: black;
+  transform: translateX(-50%);
+}
+
+.about .title::after,
+.skills .title::after,
+.my-site .title::after,
+.contact .title::after{
+  content: "";
+  position: absolute;
+  bottom: -38px;
+  left: 50%;
+  font-size: 20px;
+  color: rgb(255, 164, 45);
+  padding: 5px;
+  background-color: white;
+  transform: translateX(-50%);
+}
+
+.about .about-content,
+.skills .skills-content,
+.my-site .my-site-content,
+.contact .contact-content{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+
+

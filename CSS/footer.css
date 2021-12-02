@@ -1,0 +1,24 @@
+footer{
+  background-color: black;
+  padding: 20px 20px;
+  color: white;
+  text-align: center;
+}
+
+footer span a{
+  color: rgb(255, 164, 45);
+  text-decoration: none;
+}
+
+footer span a:hover{
+  text-decoration: underline;
+}
+
+footer span a:visited,
+footer span a:active{
+  text-decoration: none;
+}
+
+footer span i{
+  padding-right: 5px;
+}

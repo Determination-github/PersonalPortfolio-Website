@@ -1,0 +1,84 @@
+.my-site{
+  padding: 100px 0;
+  transition: all 0.3s ease;
+}
+
+.my-site .title::after{
+  content: "What Is My Site ";
+}
+
+.my-site .my-site-content{
+  margin-bottom: 100px;
+}
+
+.my-site .my-site-content .left{
+  width: 32%
+}
+
+.my-site .my-site-content .center{
+  width: 32%
+}
+
+.my-site .my-site-content .right{
+  width: 32%
+}
+
+.my-site .my-site-content a{
+  display: flex;
+  text-align: center;
+  color: black;
+}
+
+.my-site .my-site-content a,
+.my-site .my-site-content a:visited,
+.my-site .my-site-content a:active,
+.my-site .my-site-content a:hover{
+  text-decoration: none;
+}
+
+
+.my-site .my-site-content .site{
+  background-color: rgb(240, 236, 236);
+  border-radius: 6px;
+  padding: 25px 35px;
+  transition: all 0.3s ease;
+}
+
+.my-site .my-site-content .site img{
+  height: 150px;
+  width: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 5px solid rgb(255, 164, 45);
+  transition: all 0.3s ease;
+}
+
+.my-site .my-site-content .site-text{
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.my-site .my-site-content p{
+  font-size: 18px;
+  text-align: justify;
+}
+
+.my-site .my-site-content .site:hover{
+  background-color: rgb(25, 8, 53);
+  color: white;
+  transform: scale(1.05);
+}
+
+.my-site .my-site-content .site:hover img{
+  border-color: white;
+}
+
+
+
+
+
+
+
+
+
+

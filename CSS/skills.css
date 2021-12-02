@@ -1,0 +1,98 @@
+.skills{
+  padding: 100px 0;
+  transition: all 0.3s ease;
+}
+
+.skills .title{
+  padding-top: 30px;
+}
+
+.skills .title::before{
+  background-color: white;
+}
+
+.skills .title::after{
+  content: "What I learned";
+  background-color: rgb(25, 8, 53);
+}
+
+.skills{
+  color: white;
+  background-color: rgb(25, 8, 53);
+  padding-bottom: 100px;
+}
+
+.skills .sub-title{
+  font-size: 30px;
+  font-weight: 600;
+  padding-bottom: 10px;
+}
+
+.skills .skills-content .column{
+  width: calc(50% - 30px);
+}
+
+.skills .skills-content .left .skills-text{
+  font-size: 23px;
+  font-weight: 300;
+  margin: 0 0 20px 10px;
+  text-align: justify;
+}
+
+.skills .skills-content .left p{
+  font-size: 20px;
+}
+
+.skills .skills-content .right .bars{
+  margin-bottom: 15px;
+}
+
+.skills .skills-content .right .bars-content{
+  display: flex;
+  margin-bottom: 5px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.skills .skills-content .right span{
+  font-size: 23px;
+  font-weight: 600;
+}
+
+.skills .skills-content .right .line{
+  height: 5px;
+  background-color: white;
+  width: 100%;
+  position: relative;
+}
+
+.skills .skills-content .right .line::before{
+  content: "";
+  position: absolute;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background: crimson;
+}
+
+.skills-content .right .html::before{
+  width: 90%;
+}
+
+.skills-content .right .css::before{
+  width: 65%;
+}
+
+.skills-content .right .js::before{
+  width: 60%;
+}
+
+.skills-content .right .java::before{
+  width: 80%;
+}
+
+.skills-content .right .oracle::before{
+  width: 70%;
+}
+
+

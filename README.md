@@ -25,7 +25,15 @@
 <br>
 
 # 🔨 코드 리뷰
-<a src = "https://determination.tistory.com/entry/HTMLCSSJavaScript%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-%EA%B0%9C%EC%9D%B8-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B01"> HTML/CSS/JS를 이용해 개인 포트폴리오 사이트 만들기 (1) </a>
-<br>
-<a src = "https://determination.tistory.com/entry/HTMLCSSJavaScript%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-%EA%B0%9C%EC%9D%B8-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B02"> HTML/CSS/JS를 이용해 개인 포트폴리오 사이트 만들기 (2) </a>
+#### 해당 페이지를 만들기 위해 HTML과 CSS, JavaScript를 어떻게 사용했는지 블로그를 통해 정리하였습니다.
+#### 아래 블로그 링크를 통해 내용을 확인할 수 있습니다.
+
+Link: [BLOG,  HTML/CSS/JS를 이용해 개인 포트폴리오 사이트 만들기 (1)][bloglink]
+
+[bloglink]: https://determination.tistory.com/entry/HTMLCSSJavaScript%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-%EA%B0%9C%EC%9D%B8-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B01
+
+Link: [BLOG,  HTML/CSS/JS를 이용해 개인 포트폴리오 사이트 만들기 (2)][bloglink]
+
+[bloglink]: https://determination.tistory.com/entry/HTMLCSSJavaScript%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-%EA%B0%9C%EC%9D%B8-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B02
+
 
